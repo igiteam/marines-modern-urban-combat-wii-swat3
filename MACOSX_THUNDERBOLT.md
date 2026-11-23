@@ -159,13 +159,3 @@ Learn more about Thunderbolt technology from Apple:
 - [About Thunderbolt Pro cables](https://support.apple.com/en-us/118204)
 - [About Adapters for Thunderbolt cables](https://support.apple.com/en-us/102477)
 
-## Turn your Mac or iPad into a wireless second display
-
-![](https://astropad.com/wp-content/uploads/2023/07/image-9.webp)[Luna Display](https://astropad.com/product/lunadisplay/) turns any Mac or iPad into a wireless second display
-
-Luna Display lets you use any Mac or iPad as a wireless second screen. Check if it’s the right fit for you:
-
-- **Mac or PC → iPad**: Extend your workspace onto your own iPad
-- **Mac or PC → Mac**: Use your Mac as a secondary display (even older Macs 2012+)
-- **Headless Mode**: Use your iPad or Mac as the main display for Mac mini, Mac Studio, or Mac Pro
-
