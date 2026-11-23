@@ -8,10 +8,6 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1)
 
-## SWAT3 Twin Arcade mode
-[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_THUNDERBOLT.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_THUNDERBOLT.md)
-
-[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_TWIN_HEADLESS_ARCADE.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_TWIN_HEADLESS_ARCADE.md)
 
 ## Base Gameplay 
 [![Marines: Modern Urban Combat ... (Wii) Gameplay](https://img.youtube.com/vi/ppywsGxYqD8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?cHB5d3NHeFlxRDg)
@@ -31,7 +27,6 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 
 ## Reference Links
-[https://github.com/xandoxan65/segarally95-recomp](https://github.com/xandoxan65/segarally95-recomp)
 
 [https://vimm.net/vault/64388](https://vimm.net/vault/64388)
 
@@ -39,9 +34,16 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 [https://dolphin-emu.org/](https://dolphin-emu.org/)
 
+[![Marines Modern Urban Combat Wii](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/marines-modern-urban-combat-wii.png)](https://vimm.net/vault/64388)
+
+## SWAT3 Twin Arcade mode
+[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_THUNDERBOLT.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_THUNDERBOLT.md)
+
+[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_TWIN_HEADLESS_ARCADE.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_TWIN_HEADLESS_ARCADE.md)
+
 [https://adb.arcadeitalia.net/dettaglio_mame.php?game_name=srallyc&lang=en](https://adb.arcadeitalia.net/dettaglio_mame.php?game_name=srallyc&lang=en)
 
-[![Marines Modern Urban Combat Wii](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/marines-modern-urban-combat-wii.png)](https://vimm.net/vault/64388)
+[https://github.com/xandoxan65/segarally95-recomp](https://github.com/xandoxan65/segarally95-recomp)
 
 [![Sega Rally Chhampionship Twin Arcade DX)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Sega_Rally_twin.jpg)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Sega_Rally_twin.jpg)
 
