@@ -30,6 +30,10 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 [https://vimm.net/vault/64388](https://vimm.net/vault/64388)
 
+[https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
+
+[https://dolphin-emu.org/](https://dolphin-emu.org/)
+
 [https://adb.arcadeitalia.net/dettaglio_mame.php?game_name=srallyc&lang=en](https://adb.arcadeitalia.net/dettaglio_mame.php?game_name=srallyc&lang=en)
 
 [![Marines Modern Urban Combat Wii](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/marines-modern-urban-combat-wii.png)](https://vimm.net/vault/64388)
