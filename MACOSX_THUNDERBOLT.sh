@@ -1,8 +1,8 @@
 #!/bin/bash
-# setup_macosx_thunderbolt_bridge.sh — configure Thunderbolt Bridge for two-Mac LAN co-op
+# MACOSX_THUNDERBOLT.sh — configure Thunderbolt Bridge for two-Mac LAN co-op
 # Usage:
-#   On Mac A (host):   ./setup_macosx_thunderbolt_bridge.sh host
-#   On Mac B (client): ./setup_macosx_thunderbolt_bridge.sh client
+#   On Mac A (host):   ./MACOSX_THUNDERBOLT.sh host
+#   On Mac B (client): ./MACOSX_THUNDERBOLT.sh client
 #
 # Requires: sudo (for networksetup changes)
 
@@ -84,3 +84,48 @@ case "${1:-}" in
     reset)  reset_dhcp ;;
     *)      usage ;;
 esac
+
+# How to use it
+# Save it as setup_bridge.sh in your repo (e.g. igi1-macbook-3d-workstation/scripts/).
+
+# Make it executable on both Macs:
+
+# bash
+# chmod +x setup_bridge.sh
+# Run on Mac A (host):
+
+# bash
+# ./setup_bridge.sh host
+# Run on Mac B (client):
+
+# bash
+# ./setup_bridge.sh client
+# Check the link (no sudo needed):
+
+# bash
+# ./setup_bridge.sh status
+# Verify connectivity (from Mac A):
+
+# bash
+# ping 169.254.1.2
+# You want <2ms latency and 0% packet loss.
+
+# Revert to automatic if you ever want macOS to handle it again:
+
+# bash
+# ./setup_bridge.sh reset
+# Notes on the choices
+# 169.254.1.x is a link-local range. It avoids clashing with any home router (192.168.1.x etc.) and is the same range macOS itself uses for self-assigned IPs, so it's safe for a direct cable.
+
+# networksetup -setmanual is the documented way to set static IPs from the CLI (equivalent to System Settings → Network → Thunderbolt Bridge → Details → TCP/IP → Manually).
+
+# "" for the router field means "no router," which is correct for a direct cable.
+
+# require_sudo re-execs itself with sudo if needed, so you can run it without sudo and it will prompt.
+
+# status doesn't need sudo — it's safe to run any time.
+
+# reset returns the service to DHCP, which is the "Thunderbolt Bridge automatic" mode if you ever want to test the plug-and-play path instead.
+
+# One caveat
+The check_service function requires the Thunderbolt cable to be connected before it runs, otherwise networksetup won't list the service and the script will bail with a helpful message. That's intentional — it stops you from setting an IP on a non-existent interface.
