@@ -49,6 +49,18 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 [![Headless MacBook](https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg)](https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM)
 
+### Reference Images: Sony MDR-V6
+
+These are period-correct studio monitors, highly recommended for testing the "analytical" side of Aureal Vortex A3D.
+
+| Image 1 | Image 2 | Image 3 | Image 4 |
+| :---: | :---: | :---: | :---: |
+| ![Sony MDR-V6 Image 1](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/master/aureal-a3d-sdk/sony_mdr_v6_1.png) | ![Sony MDR-V6 Image 2](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/master/aureal-a3d-sdk/sony_mdr_v6_2.png) | ![Sony MDR-V6 Image 3](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/master/aureal-a3d-sdk/sony_mdr_v6_3.png) | ![Sony MDR-V6 Image 4](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/master/aureal-a3d-sdk/sony_mdr_v6_4.png) |
+
+*(Note: These images are from an eBay listing, used here for product identification.)*
+
+![Turtle Beach Aureal A3D](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/master/aureal-a3d-sdk/Turtle%20Beach%20Montego%20Aureal%20Vortex%201%20PCI%20Sound%20Card%20Vintage%20A3D.png)
+
 ---
 
 
