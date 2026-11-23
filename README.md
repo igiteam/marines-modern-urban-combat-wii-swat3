@@ -8,9 +8,12 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1)
 
-## Base Gameplay
+## SWAT3 Twin Arcade mode
 [https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_THUNDERBOLT.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_THUNDERBOLT.md)
 
+[https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_TWIN_HEADLESS_ARCADE.md](https://readme.macosxjs.com/?url=https%3A%2F%2Fgithub.com%2Figiteam%2Fmarines-modern-urban-combat-wii-swat3%2Fblob%2Fmain%2FMACOSX_TWIN_HEADLESS_ARCADE.md)
+
+## Base Gameplay 
 [![Marines: Modern Urban Combat ... (Wii) Gameplay](https://img.youtube.com/vi/ppywsGxYqD8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?cHB5d3NHeFlxRDg)
 
 [![Marines Modern Urban Combat | Dolphin Emulator 5.0-12436 [1080p HD] | Nintendo Wii](https://img.youtube.com/vi/_TUyE4mudts/maxresdefault.jpg)](https://ytembed.macosxjs.com/?X1RVeUU0bXVkdHM)
