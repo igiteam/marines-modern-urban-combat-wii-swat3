@@ -49,6 +49,8 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 [![Headless MacBook](https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg)](https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM)
 
+[![MP5 wii gun plastic](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg)
+
 ### Reference Images: Sony MDR-V6
 
 These are period-correct studio monitors, highly recommended for testing the "analytical" side of Aureal Vortex A3D.
