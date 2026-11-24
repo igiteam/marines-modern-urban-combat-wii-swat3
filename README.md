@@ -55,9 +55,25 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 | :---: | :---: |
 | [![Headless MacBook](https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg)](https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM) | [![Headless MacBook](https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg)](https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM) |
 
+| HDMI Cable | HDMI Cable |
+| :---: | :---: |
+| ![HDMI Cable](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/hdmi-cable.png) | ![HDMI Cable](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/hdmi-cable.png) |
+
+| Infrared Sensor Bar | Infrared Sensor Bar |
+| :---: | :---: |
+| ![Infrared Sensor Bar USB for Wii](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Infrared-Sensor-Bar-USB-for-Wii.png) | ![Infrared Sensor Bar USB for Wii](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Infrared-Sensor-Bar-USB-for-Wii.png) |
+
 | MP5 Gun | MP5 Gun |
 | :---: | :---: |
 | ![MP5 wii gun plastic](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg) | ![MP5 wii gun plastic](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg) |
+
+| Genuine Wiimote + Nunchuk | Genuine Wiimote + Nunchuk |
+| :---: | :---: |
+| ![Genuine Wiimote Nunchuk](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/genuine-wiimote-nunchuk.jpg) | ![Genuine Wiimote Nunchuk](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/genuine-wiimote-nunchuk.jpg) |
+
+| 2x AA Battery | 2x AA Battery |
+| :---: | :---: |
+| ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery.png) | ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery.png) |
 
 | Sony MDR-V6 | Sony MDR-V6 |
 | :---: | :---: |
