@@ -78,7 +78,7 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 | Thunderbolt 2 Cable | 1 pc | 
 | :---: | :---: |
-| ![Thunderbolt-2-cable-twin-macbook-pro](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Thunderbolt-2-cable-twin-macbook-pro.png) |
+| ![Thunderbolt-2-cable-twin-macbook-pro](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/MACOSX_THUNDERBOLT-2-cable-twin-macbook-pro.png) |
 
 | Sony MDR-V6 | Sony MDR-V6 |
 | :---: | :---: |
