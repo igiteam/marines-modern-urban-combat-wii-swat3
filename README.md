@@ -47,26 +47,11 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 [![Sega Rally Chhampionship Twin Arcade DX)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Sega_Rally_twin.jpg)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Sega_Rally_twin.jpg)
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; align-items: stretch; max-width: 1400px; margin: 0 auto;">
+| :---: | :---: |
+| [![Headless MacBook](https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg)](https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM) | [![Headless MacBook](https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg)](https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM) |
 
-  <!-- Column 1: MacBook stacked over MacBook -->
-  <div style="display: flex; flex-direction: column; flex: 1 1 400px; gap: 1rem; min-width: 280px;">
-    <a href="https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM">
-      <img src="https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg" alt="Headless MacBook" style="width: 100%; display: block; border-radius: 12px;">
-    </a>
-    <a href="https://ytembed.macosxjs.com/?dU9pZ1ZqcVc3aGM">
-      <img src="https://i.ytimg.com/vi/5WR0YpckMzU/sddefault.jpg" alt="Headless MacBook" style="width: 100%; display: block; border-radius: 12px;">
-    </a>
-  </div>
-
-  <!-- Column 2: MP5 stacked over MP5 -->
-  <div style="display: flex; flex-direction: column; flex: 1 1 400px; gap: 1rem; min-width: 280px;">
-    <img src="https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg" alt="MP5 wii gun plastic" style="width: 100%; display: block; border-radius: 12px;">
-    <img src="https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg" alt="MP5 wii gun plastic" style="width: 100%; display: block; border-radius: 12px;">
-  </div>
-
-</div>
-
+| :---: | :---: |
+| ![MP5 wii gun plastic](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg) | ![MP5 wii gun plastic](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg) |
 [![Twin Arcade Shooter Dual Screens 52](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/time-crisis-4-twin-arcade.png)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/time-crisis-4-twin-arcade.png)
 
 ### Reference Images: Sony MDR-V6
