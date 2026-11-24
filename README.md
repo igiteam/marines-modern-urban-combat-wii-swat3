@@ -10,9 +10,9 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 
 ## Base Gameplay 
-[![Marines: Modern Urban Combat ... (Wii) Gameplay](https://img.youtube.com/vi/ppywsGxYqD8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?cHB5d3NHeFlxRDg)
+[![Marines: Modern Urban Combat Gameplay](https://img.youtube.com/vi/ppywsGxYqD8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?cHB5d3NHeFlxRDg)
 
-[![Marines Modern Urban Combat | Dolphin Emulator 5.0-12436 [1080p HD] | Nintendo Wii](https://img.youtube.com/vi/_TUyE4mudts/maxresdefault.jpg)](https://ytembed.macosxjs.com/?X1RVeUU0bXVkdHM)
+[![Marines Modern Urban Combat Wii](https://img.youtube.com/vi/_TUyE4mudts/maxresdefault.jpg)](https://ytembed.macosxjs.com/?X1RVeUU0bXVkdHM)
 
 [![SWAT 3: All Weapons](https://img.youtube.com/vi/JCfElqDUoSI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SkNmRWxxRFVvU0k)
 
