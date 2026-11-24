@@ -71,9 +71,14 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 | :---: | :---: |
 | ![Genuine Wiimote Nunchuk](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/genuine-wiimote-nunchuk.jpg) | ![Genuine Wiimote Nunchuk](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/genuine-wiimote-nunchuk.jpg) |
 
-| 2x AA Battery | 2x AA Battery |
+| 2x AA Battery | 2x AA Battery | 
 | :---: | :---: |
 | ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery_wiimote.png) | ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery_wiimote.png) |
+
+
+| Thunderbolt 2 Cable | 1 pc | 
+| :---: | :---: |
+| ![Thunderbolt-2-cable-twin-macbook-pro](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Thunderbolt-2-cable-twin-macbook-pro.png) |
 
 | Sony MDR-V6 | Sony MDR-V6 |
 | :---: | :---: |
