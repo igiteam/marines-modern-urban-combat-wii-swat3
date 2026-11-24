@@ -51,6 +51,8 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 [![MP5 wii gun plastic](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/mp5-wii-gun.jpg)
 
+[![Twin Arcade Shooter Dual Screens 52](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/time-crisis-4-twin-arcade.png)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/time-crisis-4-twin-arcade.png)
+
 ### Reference Images: Sony MDR-V6
 
 These are period-correct studio monitors, highly recommended for testing the "analytical" side of Aureal Vortex A3D.
