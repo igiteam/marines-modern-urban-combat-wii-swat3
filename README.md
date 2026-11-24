@@ -73,7 +73,7 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 | 2x AA Battery | 2x AA Battery |
 | :---: | :---: |
-| ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery.png) | ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery.png) |
+| ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery_wiimote.png) | ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery_wiimote.png) |
 
 | Sony MDR-V6 | Sony MDR-V6 |
 | :---: | :---: |
