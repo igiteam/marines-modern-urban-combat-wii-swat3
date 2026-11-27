@@ -75,7 +75,6 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 | :---: | :---: |
 | ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery_wiimote.png) | ![2xAA battery](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/2xAA_battery_wiimote.png) |
 
-
 | Thunderbolt 2 Cable | 1 pc | 
 | :---: | :---: |
 | ![Thunderbolt-2-cable-twin-macbook-pro](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/MACOSX_THUNDERBOLT-2-cable-twin-macbook-pro.png) |
@@ -83,6 +82,12 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 | Sony MDR-V6 | Sony MDR-V6 |
 | :---: | :---: |
 | ![Sony MDR-V6 Image 1](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/aureal-a3d-sdk/sony_mdr_v6_1.png) | ![Sony MDR-V6 Image 1](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/aureal-a3d-sdk/sony_mdr_v6_1.png) |
+
+[![The Lost World - Jurassic Parc on Time Crisis 4 DX original cabinet](https://img.youtube.com/vi/L2tXDJ2YlxQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TDJ0WERKMllseFE)
+
+| | | |
+| :---: | :---: | :---: |
+| ![](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/timecrisis4dxarcade1.png) | ![](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/timecrisis4dxarcade2.png) | ![](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/timecrisis4dxarcade3.png) |
 
 ### Reference Images: Sony MDR-V6
 
