@@ -47,8 +47,6 @@ A remake of *SWAT3* rebuilt in the **Marines Modern Urban Combat Wii** engine/pr
 
 [![Sega Rally Chhampionship Twin Arcade DX)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Sega_Rally_twin.jpg)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/Sega_Rally_twin.jpg)
 
-[![Twin Arcade 45 TV Screen](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/time-crisis-4-twin-arcade.png)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/time-crisis-4-twin-arcade.png)
-
 [![SWAT3 LOGO](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/swat3icon.png)](https://raw.githubusercontent.com/igiteam/marines-modern-urban-combat-wii-swat3/refs/heads/main/swat3icon.png)
 
 | MacBook | MacBook |
